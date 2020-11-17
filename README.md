@@ -12,7 +12,8 @@ example codes
         Start date, something like 2020-11-10. Default: today's system date. (default "2020-11-17")
 ```
 ### example:
-```go run generate_uuid_table.go -days=10
+```
+go run generate_uuid_table.go -days=10
 db name:  beacon.db
 start date:  2020-11-17
 number of days:  10
